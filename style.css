@@ -1,0 +1,41 @@
+ * {
+      background-color: white 
+
+}
+
+.keyboard {
+      align-content: center;
+}
+
+input {
+      height: 40px;
+      width: 95%;
+      margin-left: 0.8px;
+      border-radius: 5px;
+}
+
+.display {
+      background-color: rgba(202, 201, 201);
+      width: 250px;
+      padding: 15px;
+      text-align: right;
+      font-size: 20px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      height: 35px;
+}
+
+button {
+      padding: 10px;
+      width: 67px;
+      height: 45px;
+      margin-top: 10px;
+      background-color: rgb(194, 194, 194);
+      color: black;
+      font-size: 20px;
+      border-radius: 1px;
+}
+
+#r1-1 {
+      width: 138px;
+}
